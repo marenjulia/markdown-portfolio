@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* The Importance of Being Earnest
+* Persuasion
+* Three Men and a Boat
